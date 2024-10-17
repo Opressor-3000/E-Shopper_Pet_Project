@@ -1,3 +1,3 @@
-# Beginner final layihə
+My E-commerce pet-project !
 
-Verilmiş texniki tapşırıq faylından və [frontend fayllarından](./_frontend) istifadə edərək final layihəni yazmaq tələb olunur.
+
